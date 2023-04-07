@@ -1,0 +1,46 @@
+{
+  "term": "Spring",
+  "year": "2023",
+  "level": [
+    "Non Credit"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Biology",
+      "Genetics"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Molecular Biology"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "",
+    "website": "703x-genetics"
+  },
+  "course_title": "7.03x Genetics",
+  "course_description": "In this course, you will learn the principles of genetics with application to the study of biological function at the level of molecules, cells, and multicellular organisms, including humans. We will cover structure and function of genes, chromosomes, and genomes; biological variation resulting from recombination, mutation, and selection; population genetics; and the use of genetic methods to modify genes and genomes and analyze protein function, gene regulation, and inherited disease.\n\nThis course, based on the MIT course *7.03 Genetics* taken by enrolled MIT students, was organized as a three-part series on [edX](https://www.edx.org/school/mitx) by [MIT\u2019s Department of Biology](https://biology.mit.edu/). It is [self-paced and free](https://web.mit.edu/mitxbio/courses.html) as long as you enroll in the Audit Track option, which you can select after creating a free account on edX.",
+  "department_numbers": [
+    "7"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "RES.7-006",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "703x-genetics"
+  },
+  "learning_resource_types": [
+    "Course Introduction",
+    "Lecture Videos",
+    "Problem Sets with Solutions"
+  ],
+  "site_uid": "07d2b2d8-37c7-4fa0-84b7-15b5abc6c237",
+  "site_short_id": "RES.7-006-spring-2023"
+}
