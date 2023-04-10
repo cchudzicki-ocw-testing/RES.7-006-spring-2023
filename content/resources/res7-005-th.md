@@ -5,9 +5,11 @@ draft: false
 file: /courses/703x-genetics/res7-005-th.jpg
 file_type: image/jpeg
 image_metadata:
-  caption: ''
-  credit: ''
-  image-alt: ''
+  caption: This course will explore the foundations of the field of genetics and how
+    to apply those concepts to understand modern studies of heredity.
+  credit: Image by Dr. Darcy Gordon
+  image-alt: A collage of illustrations depicting a DNA double helix, a cell, a phylogenetic
+    tree, a mouse, fruit flies, and a pedigree chart.
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Image
@@ -23,3 +25,4 @@ video_metadata:
   youtube_description: ''
   youtube_id: ''
 ---
+Thumbnail image cropped from course homepage illustration from 7.03x, showing DNA, a cell, phylogenetic tree, mouse, fruit flies, and a pedigree chart. Image by Dr. Darcy Gordon.
