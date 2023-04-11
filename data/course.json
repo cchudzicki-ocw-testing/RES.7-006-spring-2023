@@ -18,7 +18,14 @@
   ],
   "legacy_uid": "",
   "instructors": {
-    "content": [],
+    "content": [
+      "d70fde96-5c8c-4867-a67b-cad07e81ee06",
+      "a6e7ed32-903c-4f08-84f5-28cbabc25d06",
+      "698fbf70-1744-45f9-88fe-db0bd96fa255",
+      "b202009b-f02c-4c3a-b7e5-fcdef1f38e1a",
+      "29a9fb28-243f-4dfb-a5d6-5eaa7ea7564c",
+      "26e6ece3-6eba-4748-9abe-3277e44a8673"
+    ],
     "website": "ocw-www"
   },
   "course_image": {
